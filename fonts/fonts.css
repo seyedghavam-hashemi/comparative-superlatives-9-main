@@ -1,0 +1,561 @@
+
+@font-face {
+  font-family: AduelRegular;
+  src: url(AduelRegular.ttf);
+}
+
+@font-face {
+  font-family: ASulsRegular;
+  src: url(ASulsRegular.ttf);
+}
+@font-face {
+  font-family: AduelFat;
+  src: url(AduelFat.ttf);
+}
+
+@font-face {
+  font-family: Aarabtype;
+  src: url(arabtype.ttf);
+}
+
+@font-face {
+  font-family: Dorood;
+  src: url(Dorood.ttf);
+}
+
+
+
+@font-face {
+  font-family: KacstFarsi;
+  src: url(KacstFarsi.ttf);
+}
+
+
+@font-face {
+  font-family: kamran;
+  src: url(kamran.ttf);
+}
+
+@font-face {
+  font-family: Dorood;
+  src: url(Dorood.ttf);
+}
+
+@font-face {
+  font-family: Suls;
+  src: url(Suls.ttf);
+}
+
+@font-face {
+  font-family: tradbdo;
+  src: url(tradbdo.ttf);
+}
+
+
+
+
+@font-face {
+    font-family: Mj_Annab;
+    src: url(Mj_Annab.ttf);
+  }
+  
+@font-face {
+    font-family: Far_Diwani_3d_Shadow;
+    src: url(Far_Diwani_3d_Shadow.ttf);
+  }
+  
+@font-face {
+    font-family: Far_Medad;
+    src: url(Far_Medad.ttf);
+  }
+@font-face {
+    font-family: Far_Sahra;
+    src: url(Far_Sahra.ttf);
+  }  
+
+@font-face {
+    font-family: Mj_Ghalam-1_0;
+    src: url(Mj_Ghalam-1_0.ttf);
+  }  
+
+
+@font-face {
+    font-family: Moalla;
+    src: url(Moalla.ttf);
+  }   
+  
+@font-face {
+    font-family: persian-badkht1;
+    src: url(persian-badkht1.ttf);
+  } 
+
+@font-face {
+    font-family: persian-badkht2;
+    src: url(persian-badkht2.ttf);
+  } 
+  
+@font-face {
+    font-family: W_parvaz;
+    src: url(W_parvaz.ttf);
+  } 
+
+/*EN fonts*/
+
+
+@font-face {
+  font-family: Arima-VariableFont_wght;
+  src: url(Arima-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: EduAUVICWANTGuides-VariableFont_wght;
+  src: url(EduAUVICWANTGuides-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: ArchitectsDaughter-Regular;
+  src: url(ArchitectsDaughter-Regular.ttf);
+} 
+
+
+@font-face {
+  font-family: Caveat-VariableFont_wght;
+  src: url(Caveat-VariableFont_wght.ttf);
+} 
+@font-face {
+  font-family: Courgette-Regular;
+  src: url(Courgette-Regular.ttf);
+} 
+@font-face {
+  font-family: Creepster-Regular;
+  src: url(Creepster-Regular.ttf);
+} 
+@font-face {
+  font-family: GloriaHallelujah-Regular;
+  src: url(GloriaHallelujah-Regular.ttf);
+} 
+@font-face {
+  font-family: Kalam-Bold;
+  src: url(Kalam-Bold.ttf);
+} 
+
+
+@font-face {
+  font-family: Kalam-Light;
+  src: url(Kalam-Light.ttf);
+} 
+
+@font-face {
+  font-family: Kalam-Regular;
+  src: url(Kalam-Regular.ttf);
+} 
+
+@font-face {
+  font-family: Prompt-Black;
+  src: url(Prompt-Black.ttf);
+}
+
+@font-face {
+  font-family: Prompt-BlackItalic;
+  src: url(Prompt-BlackItalic.ttf);
+}
+
+@font-face {
+  font-family: Prompt-Bold;
+  src: url(Prompt-Bold.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-BoldItalic;
+  src: url(Prompt-BoldItalic.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-ExtraBold;
+  src: url(Prompt-ExtraBold.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-ExtraBoldItalic;
+  src: url(Prompt-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: Prompt-ExtraLight;
+  src: url(Prompt-ExtraLight.ttf);
+}
+
+@font-face {
+  font-family: Prompt-ExtraLightItalic;
+  src: url(Prompt-ExtraLightItalic.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-Italic;
+  src: url(Prompt-Italic.ttf);
+}
+
+
+
+@font-face {
+  font-family: Prompt-Light;
+  src: url(Prompt-Light.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-LightItalic;
+  src: url(Prompt-LightItalic.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-Medium;
+  src: url(Prompt-Medium.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-MediumItalic;
+  src: url(Prompt-MediumItalic.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-Regular;
+  src: url(Prompt-Regular.ttf);
+}
+
+@font-face {
+  font-family: Prompt-SemiBold;
+  src: url(Prompt-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Prompt-SemiBoldItalic;
+  src: url(Prompt-SemiBoldItalic.ttf);
+}
+
+@font-face {
+  font-family: Prompt-Thin;
+  src: url(Prompt-Thin.ttf);
+}
+
+@font-face {
+  font-family: Prompt-ThinItalic;
+  src: url(Prompt-ThinItalic.ttf);
+}
+
+
+@font-face {
+  font-family: Prompt-ThinItalic;
+  src: url(Prompt-ThinItalic.ttf);
+}
+
+
+@font-face {
+  font-family: RubikDoodleShadow-Regular;
+  src: url(RubikDoodleShadow-Regular.ttf);
+}
+
+@font-face {
+  font-family: Vollkorn-VariableFont_wght;
+  src: url(Vollkorn-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: Vollkorn-Italic-VariableFont_wght;
+  src: url(Vollkorn-Italic-VariableFont_wght.ttf);
+}
+
+
+@font-face {
+  font-family: WalterTurncoat-Regular;
+  src: url(WalterTurncoat-Regular.ttf);
+}
+
+@font-face {
+  font-family: VastShadow-Regular;
+  src: url(VastShadow-Regular.ttf);
+}
+@font-face {
+  font-family: SyneMono-Regular;
+  src: url(SyneMono-Regular.ttf);
+}
+@font-face {
+  font-family: HappyMonkey-Regular;
+  src: url(HappyMonkey-Regular.ttf);
+}
+
+
+@font-face {
+  font-family: FingerPaint-Regular;
+  src: url(FingerPaint-Regular.ttf);
+}
+
+
+
+
+
+
+
+
+
+
+
+.glass{
+    font-family:persian-badkht1;
+    font-size: 1.75em;
+    line-height: 1em;
+    font-weight: 800;
+  }
+  
+  .p_final{
+    font-family:persian-badkht1;
+    font-size: 3em;
+    line-height: 3em;
+    font-weight: 900;
+    color:#fff;
+    
+  }
+  .a-font{
+    font-family: Mj_Annab;
+    color:#000;
+    font-size: 2em;
+  }
+
+  .khodam-per{
+    font-family: kamran;
+    font-size: 2em;
+    text-align: center;
+    /*line-height: 1em;*/
+    color: #ff0000;
+    font-weight: 1000;
+    text-shadow: 6px 6px 8px #ffffff, 4px 4px 6px #ff0000;
+    text-align: center;
+  }
+ 
+  .khodam-per-2{
+    font-family: kamran;
+    font-size: 2em;
+    text-align: center;
+    /*line-height: 1em;*/
+    color: #fff;
+    font-weight: 1000;
+    text-shadow: 6px 6px 8px #ffffff, 4px 4px 6px #ff0000;
+    text-align: center;
+  }
+
+
+  .khodam-en{
+  font-family:ArchitectsDaughter-Regular;
+  /* font-family: Courgette-Regular;*/
+   color: #ff0000;
+   font-size: 2em;
+   font-weight: bolder;
+   text-shadow: 6px 6px 8px #ffffff, 4px 4px 6px #ff0000;
+   text-align: center;
+
+  }
+
+  .khodam-en-2{
+    font-family:EduAUVICWANTGuides-VariableFont_wght;
+    /* font-family: Courgette-Regular;*/
+     color: #fff;
+     font-size: 2vh;
+     font-weight: bolder;
+     text-shadow: 6px 6px 8px #ffffff, 4px 4px 6px #ff0000;
+     text-align: center;
+  
+    }
+
+
+
+  .title_h2{
+    font-family: Aarabtype;
+    color:#fff;
+    font-size: 2.5em;
+    line-height: 1em;
+
+  }
+
+
+
+
+.text_1{
+  font-family: Aarabtype;
+    color:#000;
+    font-size: 1.5em;
+    line-height: 1em;
+    font-weight: bolder;
+}
+
+#at_insta_id{
+ font-family: Creepster-Regular;
+  color:#F9F018;
+  font-size: 1em;
+  line-height: 1em;
+  font-weight: bolder;
+  position: relative;
+  top:-1em;
+  text-shadow: 4px 4px 8px #ff0000;
+}
+
+.blue_moblie_font{
+  font-family: Caveat-VariableFont_wght;
+  color:#15b8ba;
+  font-size: 1em;
+  line-height: 1em;
+  position: relative;
+  font-weight: 900;
+  
+
+  top:-1.5em;
+  text-shadow: 6px 6px 12px #ffffff, -6px -6px 12px #ffffff, 6px 6px 10px #000;
+  /*box-shadow: 6px 6px 10px rgb(0 0 0 / 1);*/
+
+}
+
+.email-logo-font{
+  font-family:ArchitectsDaughter-Regular;
+ /* font-family: Courgette-Regular;*/
+  color: #ff0000;
+  font-size: 1em;
+  line-height: 1em;
+  font-weight: bolder;
+  text-shadow: 6px 6px 8px #ffffff, 4px 4px 6px #ff0000;
+}
+
+.phone-logo-font{
+  font-family: Caveat-VariableFont_wght;
+  color:#ff0000;
+  font-size: 1em;
+  line-height: 1em;
+  font-weight: bolder;
+  position: relative;
+  top:-1em;
+  text-shadow: 6px 6px 12px #ffffff, -6px -6px 12px #ffffff, 6px 6px 10px #000;
+}
+
+
+.kh_h1{
+  font-family: kamran;
+  color:#000;
+  font-size: 2.5em;
+  /*line-height: 1em;*/
+}
+.kh_h2{
+  font-family: ASulsRegular;
+  color:#000;
+  font-size: 1.5em;
+}
+.kh_h3{
+  font-family: Far_Sahra;
+  color:#000;
+  font-size: 1.5em;
+  /*line-height: 1em;*/
+
+
+}
+.kh_p{
+  font-family: Aarabtype;
+  color:#000;
+  font-size: 2em;
+  font-weight: 900;
+}
+.kh_p1{
+   font-family:  persian-badkht1;
+
+}
+.kh_p1-2{
+  font-family:  persian-badkht1;
+ color:#000;
+ font-size: 1.5em;
+}
+
+
+
+
+.kh_p2{
+  font-family:  persian-badkht1;
+ color:#fff;
+ font-size: 2.5em;
+}
+
+.h2_tamas{
+  font-family: Mj_Annab;
+  color:#fff;
+  font-size: 2em;
+}
+.p_tamas_per{
+  font-family: AduelRegular;
+  color:#fff;
+  font-size: 1.5em;
+  line-height: 2em;
+  font-weight: bolder;
+}
+
+.p_tamas_en{
+ /* font-family:GloriaHallelujah-Regular;
+  font-family: Caveat-VariableFont_wght;*/
+  font-family: Courgette-Regular;
+  color:#ff0000;
+  font-size: 3vh;
+  font-weight: 700;
+
+}
+.p_tamas_insta{
+  /* font-family:GloriaHallelujah-Regular;
+   font-family: Caveat-VariableFont_wght;*/
+  font-family:Vollkorn-Italic-VariableFont_wght;
+   color:#ff0000;
+   font-size: 4vh;
+   font-weight: 700;
+ 
+ }
+
+
+
+.abstract-title-per, .abstract-per{
+  font-family: kamran;
+  color:#000;
+  font-weight: bolder;
+
+}
+
+.abstract-title-per{
+  font-size: 2.5em;
+
+}
+
+.abstract-per{
+
+  font-size: 2em;
+}
+
+
+.abstract-en{
+  font-family: ArchitectsDaughter-Regular;
+  font-size: 1em;
+
+
+}
+.edu-font{
+  font-family: EduAUVICWANTGuides-VariableFont_wght;
+  
+}
+
+.arima-font{
+  font-family: Arima-VariableFont_wght;
+}
+
+.text-subject{
+  font-weight: 700;
+  background-color:#fff;
+  font-family: Prompt-LightItalic;
+
+}
